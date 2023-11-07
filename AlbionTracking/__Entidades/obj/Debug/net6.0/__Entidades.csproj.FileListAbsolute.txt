@@ -1,0 +1,12 @@
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\bin\Debug\net6.0\__Entidades.deps.json
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\bin\Debug\net6.0\__Entidades.dll
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\bin\Debug\net6.0\__Entidades.pdb
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\__Entidades.csproj.AssemblyReference.cache
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\__Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\__Entidades.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\__Entidades.AssemblyInfo.cs
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\__Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\__Entidades.dll
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\refint\__Entidades.dll
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\__Entidades.pdb
+C:\Users\mathi\source\repos\AlbionTracking\__Entidades\obj\Debug\net6.0\ref\__Entidades.dll
